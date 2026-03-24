@@ -85,7 +85,6 @@ const Footer = () => {
       <div className="border-t border-accent/30">
         <div className="container mx-auto flex flex-col items-center justify-between gap-2 px-6 py-5 text-xs text-muted-foreground md:flex-row">
           <p>© {new Date().getFullYear()} Redwood Engineering Labs. All rights reserved.</p>
-          <p>Going public Q3 2026.</p>
         </div>
       </div>
     </footer>
