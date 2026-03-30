@@ -111,7 +111,7 @@ const TeamSection = () => {
 
         {/* Right — Front-Facing Team */}
         <TeamHalf
-          video="/frontfacing-team.mp4"
+          video="/front-facing.mp4"
           poster="/frontfacing-team.png"
           overlayOpacity="opacity-45"
           label="Front Facing"
