@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const CALENDLY_URL = "https://calendly.com/jacekgorski118/30min";
+const CALENDLY_URL = "https://calendly.com/vladyslavshevchenko005/30min";
 
 const BookMeeting = () => {
   return (
